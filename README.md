@@ -65,12 +65,6 @@ Support attaching receipts or other relevant documents to expense entries.
 
     Implement Mongoose ORM for schema definition and validation.
 
-- Deployment:
-
-    Deploy the application to a cloud provider like AWS and render.
-    frontend has deployed on AWS and backend on Render.
-
-    Set up Continuous Integration and Continuous Deployment (CI/CD) pipelines for automated builds and deployments.
 ## Run Locally
 
 Clone the project
