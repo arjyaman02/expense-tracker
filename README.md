@@ -143,10 +143,3 @@ To run this project, you will need to add the following environment variables to
 
 
 
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-# expense-tracker
-# expense-tracker
